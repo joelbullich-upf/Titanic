@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales (si los usas)
+venv/
+env/
+
+# Archivos de Python que se generan automáticamente
+__pycache__/
+*.py[cod]
+
+# Archivos ZIP o comprimidos
+*.zip
+*.tar.g
